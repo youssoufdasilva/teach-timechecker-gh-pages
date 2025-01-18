@@ -7,11 +7,18 @@ npm create astro@latest -- --template basics
 Replace these terms:
 
 ```md
-Astro Template
+Old: Astro Template
+New: Teacher TimeChecker
 ```
 
 ```md
-astro.exps.youssoufdasilva.com
+Old: astro.exps.youssoufdasilva.com
+New: teach.timechecker.calavium.com (Temp)
+```
+
+```md
+Old: astro-template-gh-pages
+New: teach-timechecker-gh-pages
 ```
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
