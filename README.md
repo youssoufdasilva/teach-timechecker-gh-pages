@@ -92,3 +92,9 @@ You can git clone the project and push an initial version without
 #### Deployed to Github pages using this guide
 
 https://docs.astro.build/en/guides/deploy/github/
+
+### Adding Supabase
+
+```
+npm install @supabase/supabase-js
+```
