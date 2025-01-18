@@ -13,7 +13,7 @@ New: Teacher TimeChecker
 
 ```md
 Old: astro.exps.youssoufdasilva.com
-New: teach.timechecker.calavium.com (Temp)
+New: teach-timechecker.calavium.com (Temp)
 ```
 
 ```md
